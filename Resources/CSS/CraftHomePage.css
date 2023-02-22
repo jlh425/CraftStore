@@ -1,0 +1,63 @@
+h1, 
+h2, 
+h3, 
+p {
+  font-family: "Helvetica", sans-serif;
+}
+
+.title {
+    display: block;
+  background-image: url("C:\Users\Mathius\Coding Projects\CodeAcedemyProjects\CraftStore\Resources\Images\pattern.jpeg");
+  text-align: center;
+  font-size: 100px;
+  color: khaki;
+  margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
+
+.item h2 {
+  font-size: 32px;
+  color: white;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
+
+#brush {
+  background-color: mediumspringgreen;
+  display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.frames h2 {
+  background-color: lightcoral;
+  display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.paint h2 {
+  background-color: skyblue;
+  display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
